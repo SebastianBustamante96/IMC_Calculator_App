@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IMC Calculator</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="indice">Índice de masa corporal:</string>
+    <string name="recalculate">Recalcular</string>">
+    <string name="bajoPeso">Bajo peso</string>
+    <string name="pesoNormal">Peso normal</string>
+    <string name="pesoAlto">Peso alto</string>
+    <string name="pesoObesidad">Obesidad</string>
+    <string name="resultadofinal">Resultado</string>
+    <string name="agefinal">8 años</string>
+    <string name="weightfinal">25</string>
+
+
+</resources>
